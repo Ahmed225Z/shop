@@ -1,0 +1,28 @@
+.btn btn-warning{
+   padding-left: 20px;
+}
+a{
+    text-decoration:none
+    
+}
+#aa :hover{
+    margin-left: 70px;
+    text-decoration: none;
+    font-family: 'Changa', sans-serif;
+        font-weight: bold;
+        color:white;
+      }
+      thead{
+        background-color: black;
+        color:white;
+        text-align: center;
+      }
+      tbody{
+        text-align: center;
+        background-color: #d79f3a;
+        color: white;
+        font-weight: bold;
+        font-family: 'Changa', sans-serif;
+        font-weight: bold;
+        color:white;
+      }

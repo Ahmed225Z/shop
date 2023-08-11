@@ -1,0 +1,73 @@
+body{
+    font-family: 'Changa', sans-serif;
+
+}
+.main{
+    width: 40%;
+    box-shadow: 1px 1px 10px silver;
+    margin-top: 45px;
+    padding: 10px;
+
+}
+h1{
+    font-family: 'Changa', sans-serif;
+}
+input{
+    margin-bottom:10PX ;
+    width: 60%;
+    padding: 5PX;
+    font-size: 15PX;
+    font-weight: bold;
+}
+button{
+    border: none;
+    padding: 10PX;
+    width: 40%;
+    font-size: 15PX;
+    font-weight: bold;
+    background-color: rgb(97, 238, 97);
+    cursor: pointer;
+    font-family: 'Changa', sans-serif;
+    margin-bottom: 15px;
+    box-shadow: 1px 1px 10px rgb(28, 27, 27);
+    
+}
+button:hover{
+    border: 1px solid green;
+    background: #74c474;
+    transition: 1s;
+}
+label{
+    padding: 10px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 15px;
+    background-color: rgb(81, 81, 236);
+    color: #fff;
+    box-shadow: 1px 1px 10px rgb(32, 31, 31);
+
+}
+label:hover{
+    border: 1px solid rgb(123, 123, 218);
+    background: #272fa0;
+    transition: 1s;
+}
+.product{
+    text-decoration: none;
+    font-size: 20px;
+    color: tomato;
+    font-weight: bold;
+
+}
+.product:hover{
+    font-size: 22px;
+    transition: 1s;
+}
+.card:hover {
+    transform: scale(1.1);
+    transition: 0.7s;
+  }
+  .card{
+    box-shadow: 1px 1px 10px rgb(116, 123, 120);
+
+  }
